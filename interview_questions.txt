@@ -1,0 +1,8 @@
+1. Explain current/past projects from resume. Candidate can pick one they're favorite or interviewer can pick most relevant.   
+2. Possible whiteboard solution from discussion of number 1. 
+3. If candidate has prior data services experience, then ask about ETL EDW data flow. 
+4. How you would go about getting the date from this file name? mysweetfile_2016_07_21
+5. How would you figured out if the first letter of a string is capitalized?
+6. Fake Coin - A fake coin weights 11g and real coins weight 10g. You have 20 coins and a scale sitting in front of you. What is your method to find the fake coin? 
+7. You have a 3 and a 5 litre water container, each container has no markings except for that which gives you it's total volume. You also have a running tap. You must use the containers and the tap in such away as to exactly measure out 4 litres of water. How is this done?
+8. KitKat - Write a program that prints the numbers from 1 to 100. But for multiples of three print "Kit" instead of the number and for the multiples of five print "Kat". For numbers which are multiples of both three and five print "KitKat".   
